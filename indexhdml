@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boudreaux and Domains Founders</title>
+  <meta name="description" content="Learn how to start a business, find land, secure funding, and gather the resources you need.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+  <header>
+    <h1>Boudreaux and Domains Founders</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#teach">What We Teach</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Turn Your Idea Into a Real Business</h2>
+    <p>Practical guidance on starting a business, finding land, securing funding, and gathering the resources you need.</p>
+    <a class="button" href="#contact">Get in Touch</a>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Boudreaux and Domains Founders helps new entrepreneurs go from idea to launch. We share what we know so you can skip the guesswork. (Replace this paragraph with your own story.)</p>
+  </section>
+
+  <section id="teach">
+    <h2>What We Teach</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>Starting a Business</h3>
+        <p>Choosing a structure, registering, and getting your first steps in order.</p>
+      </div>
+      <div class="card">
+        <h3>Finding Land</h3>
+        <p>Where to look, what to check, and how to evaluate a property.</p>
+      </div>
+      <div class="card">
+        <h3>Finding Funding</h3>
+        <p>Grants, loans, and other sources of money for your venture.</p>
+      </div>
+      <div class="card">
+        <h3>Resources and Support</h3>
+        <p>Tools, programs, and people that can help you grow.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email us at <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Boudreaux and Domains Founders. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
